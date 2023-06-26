@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @DirkTorre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Django and server side web development, for making a personal website project.
+
+
+
+- Helli, I’m Dirk.
+- 👀 I’m interested in 
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
