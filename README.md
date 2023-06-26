@@ -1,4 +1,5 @@
 Hello, I’m Dirk.
+
 I enjoy collecting and analyzing a variety of data.
 I always learn new things or practise.
 
