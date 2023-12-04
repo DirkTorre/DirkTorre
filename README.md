@@ -21,9 +21,9 @@ Other interests:
 
 # Finished professional projects
 ## code not on Github:
-- 2023 jan - 2023 feb | **Tectum Services Corp** | Learning on the job | Development of a Google Sheets plug-in for cleaning and summarizing data related to internet network technician appointments.
-- 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped to minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine.
-- 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs.
+- 2023 jan - 2023 feb | **Tectum Services Corp** | Learning on the job | Development of a Google Sheets plug-in for cleaning and summarizing data related to internet network technician appointments. (JavaScript)
+- 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped to minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
+- 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
 
 # Current personal projects: 
 - [recapping bioconductor](https://github.com/DirkTorre/bioconductor)
