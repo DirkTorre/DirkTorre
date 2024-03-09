@@ -9,7 +9,7 @@ Technical interests:
 - Data Science
 - Software Engineering (Python, R)
 - Bio-informatics
-= Web development
+- Web development
 
 Other interests:
 - Movies
@@ -37,11 +37,13 @@ This only contains time that I can prove that i was learning/working on the subj
 -	Machine learning (0.5)
 ## Databases:
 ***Education***: Leiden University, Leiden University of Applied Science
+
 ***Companies***: Immunetune
 -	SQL
 -	PostgresSQL (0.87)
 ## Web development:
 ***Education***: Leiden University, Leiden University of Applied Science
+
 ***Companies***: Immunetune
 -	Django (1.16)
 -	HTML (1+)
@@ -49,14 +51,16 @@ This only contains time that I can prove that i was learning/working on the subj
 -	JavaScript (0.25)
 ## Bioinformatics:
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+
 ***Companies***: Naturalis Biodiversity Center, Immunetune
 -	Genomics (2.15+)
 -	Metabolomics (1.16+)
 -	Proteomics (1.5+)
 -	Transcriptomics (0.33+)
-Biology:
-Education: Rotterdam University of Appield Science, Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
-Companies: Naturalis Biodiversity Center, Immunetune
+## Biology:
+***Education***: Rotterdam University of Appield Science, Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+
+***Companies***: Naturalis Biodiversity Center, Immunetune
 -	Biochemistry (0.68+)
 -	Cell biology (0.41+)
 -	Genetics (1.4+)
