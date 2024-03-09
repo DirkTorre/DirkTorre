@@ -22,7 +22,7 @@ This only contains time that I can prove that i was learning/working on the subj
 ## Software Engineering
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
 
-***Companies***: Naturalis Biodiversity Center, Immunetune
+***Companies***: Naturalis Biodiversity Center, Immunetune, Tectum Services Corp
 -	Python (4.5+)
 -	Bash / linux (1.5)
 -	R (0.83)
