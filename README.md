@@ -7,8 +7,8 @@ Degree: BSc. Bioinformatics at University of Applied Sciences Leiden.
 
 Technical interests:
 - Data Science
-- Software Engineering (Python, R, Linux)
-- Bio-informatics
+- Software Engineering (Python, R, Linux, SQL)
+- Bioinformatics
 - Web development
 
 Other interests:
@@ -77,8 +77,9 @@ This only contains time that I can prove that i was learning/working on the subj
 - 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
 
 # Current personal projects: 
-- [recapping bioconductor](https://github.com/DirkTorre/bioconductor)
+- [Learning more about usefull Python packages](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
 - [collecting movie info](https://github.com/DirkTorre/imdb)
+- [recapping bioconductor](https://github.com/DirkTorre/bioconductor)
 
 <!---
 DirkTorre/DirkTorre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
