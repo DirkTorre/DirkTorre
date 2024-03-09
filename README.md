@@ -31,27 +31,27 @@ This only contains time that I can prove that i was learning/working on the subj
 -	Java (0.5)
 -	AWK (0.25)
 ## Data Science
-Education: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
 -	Data analysis (1.6)
 -	Statistics (0.83)
 -	Data mining (1+)
 -	Data wrangling (0.75+)
 -	Machine learning (0.5)
 ## Databases:
-Education: Leiden University, Leiden University of Applied Science
-Companies: Immunetune
+***Education***: Leiden University, Leiden University of Applied Science
+***Companies***: Immunetune
 -	SQL
 -	PostgresSQL (0.87)
-Web development:
-Education: Leiden University, Leiden University of Applied Science
-Companies: Immunetune
+## Web development:
+***Education***: Leiden University, Leiden University of Applied Science
+***Companies***: Immunetune
 -	Django (1.16)
 -	HTML (1+)
 -	CSS (1+)
 -	JavaScript (0.25)
-Bioinformatics:
-Education: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
-Companies: Naturalis Biodiversity Center, Immunetune
+## Bioinformatics:
+***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+***Companies***: Naturalis Biodiversity Center, Immunetune
 -	Genomics (2.15+)
 -	Metabolomics (1.16+)
 -	Proteomics (1.5+)
