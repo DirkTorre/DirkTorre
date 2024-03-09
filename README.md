@@ -6,12 +6,10 @@ I always learn new things or practise.
 Degree: BSc. Bioinformatics at University of Applied Sciences Leiden.
 
 Technical interests:
-- Data Analysis
-- Data Wrangling
 - Data Science
-- Python programming
-- R programming
+- Software Engineering (Python, R)
 - Bio-informatics
+= Web development
 
 Other interests:
 - Movies
