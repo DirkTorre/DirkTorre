@@ -68,7 +68,13 @@ This only contains time that I can prove that i was learning/working on the subj
 -	Microbiology (0.16+)
 -	Molecular biology (3.34+)
 
-
+## Programming Packages and Libraries
+### Python
+- TODO
+### R
+- TODO
+### Linux
+- TODO
 
 # Finished professional projects
 ## code not on Github:
