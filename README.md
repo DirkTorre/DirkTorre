@@ -12,6 +12,7 @@ Technical interests:
 - Web development
 
 Other interests:
+- Biology
 - Movies
 - Video games
 - Creativity
