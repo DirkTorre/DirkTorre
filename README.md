@@ -22,7 +22,7 @@ Other interests:
 This only contains time that I can prove that i was learning/working on the subjects, 
 
 ## Software Engineering
-**Education**: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
 
 Companies: Naturalis Biodiversity Center, Immunetune
 -	Python (4.5+)
