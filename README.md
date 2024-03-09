@@ -7,7 +7,7 @@ Degree: BSc. Bioinformatics at University of Applied Sciences Leiden.
 
 Technical interests:
 - Data Science
-- Software Engineering (Python, R)
+- Software Engineering (Python, R, Linux)
 - Bio-informatics
 - Web development
 
