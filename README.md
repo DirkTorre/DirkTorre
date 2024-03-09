@@ -18,6 +18,54 @@ Other interests:
 - Video games
 - Creativity
 
+# Rough calculation of years of experiences
+This only contains time that I can prove that i was learning/working on the subjects, 
+
+## Software Engineering
+Education: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam 
+Companies: Naturalis Biodiversity Center, Immunetune
+-	Python (4.5+)
+-	Bash / linux (1.5)
+-	R (0.83)
+-	Java (0.5)
+-	AWK (0.25)
+## Data Science
+Education: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+-	Data analysis (1.6)
+-	Statistics (0.83)
+-	Data mining (1+)
+-	Data wrangling (0.75+)
+-	Machine learning (0.5)
+## Databases:
+Education: Leiden University, Leiden University of Applied Science
+Companies: Immunetune
+-	SQL
+-	PostgresSQL (0.87)
+Web development:
+Education: Leiden University, Leiden University of Applied Science
+Companies: Immunetune
+-	Django (1.16)
+-	HTML (1+)
+-	CSS (1+)
+-	JavaScript (0.25)
+Bioinformatics:
+Education: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+Companies: Naturalis Biodiversity Center, Immunetune
+-	Genomics (2.15+)
+-	Metabolomics (1.16+)
+-	Proteomics (1.5+)
+-	Transcriptomics (0.33+)
+Biology:
+Education: Rotterdam University of Appield Science, Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+Companies: Naturalis Biodiversity Center, Immunetune
+-	Biochemistry (0.68+)
+-	Cell biology (0.41+)
+-	Genetics (1.4+)
+-	Immunology (1+)
+-	Microbiology (0.16+)
+-	Molecular biology (3.34+)
+
+
 
 # Finished professional projects
 ## code not on Github:
