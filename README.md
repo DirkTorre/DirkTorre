@@ -85,7 +85,7 @@ This only contains time that I can prove that i was learning/working on the subj
 # Current personal projects: 
 - [Learning more about usefull Python packages](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
 - [collecting movie info](https://github.com/DirkTorre/imdb)
-- [recapping bioconductor](https://github.com/DirkTorre/bioconductor)
+- [recapping transcriptomics and bioconductor](https://github.com/DirkTorre/bioconductor)
 
 <!---
 DirkTorre/DirkTorre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
