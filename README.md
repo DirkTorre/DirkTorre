@@ -26,11 +26,11 @@ This reflects only the verifiable time spent learning and working on these subje
 -	AWK (0.25)
 ## Data Science
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
--	Data analysis (1.6)
+-	Data Analysis (1.6)
 -	Statistics (0.83)
--	Data mining (1+)
--	Data wrangling (0.75+)
--	Machine learning (0.5)
+-	Data Mining (1+)
+-	Data Wrangling (0.75+)
+-	Machine Learning (0.5)
 ## Databases
 ***Education***: Leiden University, Leiden University of Applied Science
 
