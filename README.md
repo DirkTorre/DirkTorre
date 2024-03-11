@@ -45,7 +45,7 @@ This reflects only the verifiable time spent learning and working on these subje
 -	HTML (1+)
 -	CSS (1+)
 -	JavaScript (0.25)
-## Bioinformatics:
+## Bioinformatics
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
 
 ***Companies***: Naturalis Biodiversity Center, Immunetune
@@ -53,7 +53,7 @@ This reflects only the verifiable time spent learning and working on these subje
 -	Metabolomics (1.16+)
 -	Proteomics (1.5+)
 -	Transcriptomics (0.33+)
-## Biology:
+## Biology
 ***Education***: Rotterdam University of Appield Science, Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
 
 ***Companies***: Naturalis Biodiversity Center, Immunetune
