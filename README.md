@@ -70,9 +70,9 @@ This reflects only the verifiable time spent learning and working on these subje
 
 | language | subject                      | package       |
 |----------|------------------------------|---------------|
-| bash     | bioinformatics               | bcftools      |
-| bash     | bioinformatics               | bowtie2       |
-| bash     | bioinformatics               | samtools      |
+| Bash     | bioinformatics               | bcftools      |
+| Bash     | bioinformatics               | bowtie2       |
+| Bash     | bioinformatics               | samtools      |
 | Python   | bioinformatics               | Biomart       |
 | Python   | bioinformatics               | Biopython     |
 | Python   | bioinformatics               | MHCtools      |
