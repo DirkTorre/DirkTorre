@@ -66,9 +66,9 @@ This reflects only the verifiable time spent learning and working on these subje
 
 ## Programming Packages and Libraries
 
-Syntax | Description |	Test Text
-Header | Title 	| Here’s this
-Paragraph | Text |	And more
+Syntax     | Description | Test Text
+Header     | Title 	     | Here’s this
+Paragraph  | Text        | And more
 
 ### Python
 - TODO
