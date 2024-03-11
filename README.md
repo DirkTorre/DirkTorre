@@ -9,7 +9,7 @@ Technical interests:
 - Software Engineering (Python, R, Linux, SQL)
 - Data Science
 - Bioinformatics (Informatica and Biology)
-- Life Science
+- Life Science & Technology
 - Web Development
 
 # Rough calculation of years of experiences
