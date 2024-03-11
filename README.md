@@ -9,7 +9,7 @@ Technical interests:
 - Software Engineering (Python, R, Linux, SQL)
 - Data Science
 - Bioinformatics (Informatica and Biology)
-- Web development
+- Web Development
 
 Personality:
 - Autodidact
