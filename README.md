@@ -1,4 +1,4 @@
-Hello, I’m Dirk.
+Hello, I’m Dirk (32),
 
 I enjoy collecting and analyzing a variety of data.
 I am autodidact Autodidact met een goed probleemoplossend vermogen en een hoge mate van creativiteit.
