@@ -72,6 +72,7 @@ This only contains time that I can prove that i was learning/working on the subj
 - TODO
 
 # Other interests:
+- Life Science
 - Biology
 - Movies
 - Video games
