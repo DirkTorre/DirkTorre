@@ -11,11 +11,8 @@ Technical interests:
 - Bioinformatics
 - Web development
 
-Other interests:
-- Biology
-- Movies
-- Video games
-- Creativity
+Personality:
+- Autodidact
 
 # Rough calculation of years of experiences
 This only contains time that I can prove that i was learning/working on the subjects, in reality it's more, because of overlapping experiences.
@@ -76,6 +73,13 @@ This only contains time that I can prove that i was learning/working on the subj
 - TODO
 ### Linux
 - TODO
+
+# Other interests:
+- Biology
+- Movies
+- Video games
+- Creativity
+
 
 # Finished professional projects
 ## code not on Github:
