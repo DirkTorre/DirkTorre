@@ -1,7 +1,8 @@
 Hello, I’m Dirk.
 
 I enjoy collecting and analyzing a variety of data.
-I am autodidact (always learning new things (and practising) related to software engineering and bioinformatics).
+I am autodidact Autodidact met een goed probleemoplossend vermogen en een hoge mate van creativiteit.
+(always learning new things (and practising) related to software engineering and bioinformatics).
 
 Degree: BSc. Bioinformatics at University of Applied Sciences Leiden.
 
