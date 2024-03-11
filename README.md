@@ -31,13 +31,13 @@ This reflects only the verifiable time spent learning and working on these subje
 -	Data mining (1+)
 -	Data wrangling (0.75+)
 -	Machine learning (0.5)
-## Databases:
+## Databases
 ***Education***: Leiden University, Leiden University of Applied Science
 
 ***Companies***: Immunetune
 -	SQL
 -	PostgresSQL (0.87)
-## Web development:
+## Web development
 ***Education***: Leiden University, Leiden University of Applied Science
 
 ***Companies***: Immunetune
