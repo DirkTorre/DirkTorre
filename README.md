@@ -77,8 +77,7 @@ This only contains time that I can prove that i was learning/working on the subj
 - Life Science
 - Biology
 - Movies
-- Video games
-- Creativity
+- Video Games
 
 
 # Finished professional projects
