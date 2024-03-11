@@ -12,7 +12,8 @@ Technical interests:
 - Web Development
 
 # Rough calculation of years of experiences
-This only contains time that I can prove that i was learning/working on the subjects, in reality it's more, because of overlapping experiences.
+
+This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
 
 ## Software Engineering
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
