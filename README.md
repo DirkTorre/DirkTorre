@@ -1,7 +1,7 @@
 Hello, I’m Dirk.
 
 I enjoy collecting and analyzing a variety of data.
-I am always learning new things (and practising) related to software engineering and bioinformatics.
+I am autodidact (always learning new things (and practising) related to software engineering and bioinformatics).
 
 Degree: BSc. Bioinformatics at University of Applied Sciences Leiden.
 
@@ -10,9 +10,6 @@ Technical interests:
 - Data Science
 - Bioinformatics (Informatica and Biology)
 - Web Development
-
-Personality:
-- Autodidact
 
 # Rough calculation of years of experiences
 This only contains time that I can prove that i was learning/working on the subjects, in reality it's more, because of overlapping experiences.
