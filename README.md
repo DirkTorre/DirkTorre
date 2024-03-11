@@ -66,16 +66,35 @@ This reflects only the verifiable time spent learning and working on these subje
 
 ## Programming Packages and Libraries
 
-Syntax     | Description | Test Text
-Header     | Title 	     | Here’s this
-Paragraph  | Text        | And more
+(List incomplete)
 
-### Python
-- TODO
-### R
-- TODO
-### Linux
-- TODO
+| language | subject                      | package       |
+|----------|------------------------------|---------------|
+| bash     | bioinformatics               | bcftools      |
+| bash     | bioinformatics               | bowtie2       |
+| bash     | bioinformatics               | samtools      |
+| Python   | bioinformatics               | Biomart       |
+| Python   | bioinformatics               | Biopython     |
+| Python   | bioinformatics               | MHCtools      |
+| Python   | data manipulation & analysis | Pandas        |
+| Python   | data visualization           | Bokeh         |
+| Python   | data visualization           | Matplotlib    |
+| Python   | data visualization           | Seaborn       |
+| Python   | GUI                          | wxPython      |
+| Python   | machine learning             | sklearn       |
+| Python   | N-dimensional arrays         | Numpy         |
+| Python   | notebook                     | Jupyter       |
+| Python   | webdev                       | Django        |
+| Python   | webscraping                  | beautifulsoup |
+| R        | bioinformatics               | Bioconductor  |
+| R        | bioinformatics               | edgeR         |
+| R        | bioinformatics               | Ggplot2       |
+| R        | bioinformatics               | glimma        |
+| R        | bioinformatics               | limma         |
+| R        | data input                   | readr         |
+| R        | data manipulation            | Dplyr         |
+| R        | data manipulation            | Tidyr         |
+| R        | notebook                     | Rmarkdown     |
 
 # Other interests:
 - Biology
