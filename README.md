@@ -11,6 +11,22 @@ Technical interests:
 - Life Science & Technology
 - Web Development
 
+# Knowledge op packages related to:
+
+| language | subject                      |
+|----------|------------------------------|
+| Bash     | Bioinformatics               |
+| Bash     | Web Scraping                 |
+| Python   | Bioinformatics               |
+| Python   | Data Manipulation & Analysis |     
+| Python   | GUI Development              |
+| Python   | Machine Learning             |
+| Python   | Webdev                       |
+| Python   | Web Scraping                 |
+| R        | Bioinformatics               |     
+| R        | Data Manipulation & Analysis |  
+| R        | Machine Learning             |
+
 # Rough calculation of years of experiences
 
 This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
@@ -63,22 +79,6 @@ This reflects only the verifiable time spent learning and working on these subje
 -	Immunology (1+)
 -	Microbiology (0.16+)
 -	Molecular biology (3.34+)
-
-## Knwoledge op pachages related to:
-
-| language | subject                      |
-|----------|------------------------------|
-| Bash     | Bioinformatics               |
-| Bash     | Web Scraping                 |
-| Python   | Bioinformatics               |
-| Python   | Data Manipulation & Analysis |     
-| Python   | GUI Development              |
-| Python   | Machine Learning             |
-| Python   | Webdev                       |
-| Python   | Web Scraping                 |
-| R        | Bioinformatics               |     
-| R        | Data Manipulation & Analysis |  
-| R        | Machine Learning             |
 
 
 # Finished professional projects
