@@ -48,7 +48,7 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | -                    | R                 | 0.83       | +++   | LU, AS, VU   |                | X            |
 | -                    | Java              | 0.5        | ++    | AS,          |                |              |
 | -                    | AWK               | 0.25       | ++    | AS           | NBC            |              |
-|                      |                   |            |       |              |                |              |
+|                                                                                                              |
 | Data Science         | Data Analysis     | 1.6        | +++   | LU, AS, VU   | NBC, IMTU, TSC | X            |
 | -                    | Statistics        | 0.83       | +++   | LU, AS, VU   | NBC, IMTU, TSC |              |
 | -                    | Data Mining       | 1          | +++   | AS, VU       |                |              |
