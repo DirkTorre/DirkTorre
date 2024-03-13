@@ -64,42 +64,21 @@ This reflects only the verifiable time spent learning and working on these subje
 -	Microbiology (0.16+)
 -	Molecular biology (3.34+)
 
-## Programming Packages and Libraries
+## Knwoledge op pachages related to:
 
-(List incomplete)
-
-| language | subject                      | package       |
-|----------|------------------------------|---------------|
-| Bash     | bioinformatics               | bcftools      |
-| Bash     | bioinformatics               | bowtie2       |
-| Bash     | bioinformatics               | samtools      |
-| Python   | bioinformatics               | Biomart       |
-| Python   | bioinformatics               | Biopython     |
-| Python   | bioinformatics               | MHCtools      |
-| Python   | data manipulation & analysis | Pandas        |
-| Python   | data visualization           | Bokeh         |
-| Python   | data visualization           | Matplotlib    |
-| Python   | data visualization           | Seaborn       |
-| Python   | GUI                          | wxPython      |
-| Python   | machine learning             | sklearn       |
-| Python   | N-dimensional arrays         | Numpy         |
-| Python   | notebook                     | Jupyter       |
-| Python   | webdev                       | Django        |
-| Python   | webscraping                  | beautifulsoup |
-| R        | bioinformatics               | Bioconductor  |
-| R        | bioinformatics               | edgeR         |
-| R        | bioinformatics               | Ggplot2       |
-| R        | bioinformatics               | glimma        |
-| R        | bioinformatics               | limma         |
-| R        | data input                   | readr         |
-| R        | data manipulation            | Dplyr         |
-| R        | data manipulation            | Tidyr         |
-| R        | notebook                     | Rmarkdown     |
-
-# Other interests:
-- Biology
-- Movies
-- Video Games
+| language | subject                      |
+|----------|------------------------------|
+| Bash     | Bioinformatics               |
+| Bash     | Web Scraping                 |
+| Python   | Bioinformatics               |
+| Python   | Data Manipulation & Analysis |     
+| Python   | GUI Development              |
+| Python   | Machine Learning             |
+| Python   | Webdev                       |
+| Python   | Web Scraping                 |
+| R        | Bioinformatics               |     
+| R        | Data Manipulation & Analysis |  
+| R        | Machine Learning             |
 
 
 # Finished professional projects
