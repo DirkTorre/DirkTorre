@@ -15,14 +15,15 @@ Technical interests:
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 
-| Subject                      | Language         |
-|------------------------------|------------------|
-| Data Manipulation & Analysis | Python, R, Linux |
-| Machine Learning             | Python, R        |
-| Web Scraping                 | Python, Linux    |
-| Web Development              | Python, Linux    |
-| Bioinformatics               | Python, R, Linux |
-| GUI Development              | Python           |
+| Subject                         | Language                   | Libraries of Interest   |
+|---------------------------------|----------------------------|-------------------------|
+| Data Wrangling and Manipulation | Python, R, Linux, AWK, SQL | Pandas                  |
+| Data Analysis and Visualisation | Python, R                  | Bokeh                   |
+| Machine Learning                | Python, R                  |                         |
+| Web Scraping                    | Python, Linux, AWK         | Beautiful Soup          |
+| Web Development                 | Python, Linux, SQL         | Django, PostgreSQL      |
+| Bioinformatics                  | Python, Linux, R           | Bioconductor, Biopython |
+| GUI Development                 | Python                     |                         |
 
 # Finished professional projects
 ## code not on Github:
