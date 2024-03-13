@@ -41,6 +41,35 @@ At its core, I have a strong passion for collecting and organizing data so that 
 
 This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
 
+| category             | subject           | experience | skill | at Education | at Companies   |
+|----------------------|-------------------|------------|-------|--------------|----------------|
+| Software Engineering | Python            | 4.5        | ++++  | AS, VU       | NBC, IMTU      |
+| Software Engineering | Linux / Bash      | 1.5        | +++   | AS, LU, VU   | NBC, IMTU      |
+| Software Engineering | R                 | 0.83       | +++   | LU, AS, VU   |                |
+| Software Engineering | Java              | 0.5        | ++    | AS,          |                |
+| Software Engineering | AWK               | 0.25       | ++    | AS           | NBC            |
+| Data Science         | Data Analysis     | 1.6        | +++   | LU, AS, VU   | NBC, IMTU, TSC |
+| Data Science         | Statistics        | 0.83       | +++   | LU, AS, VU   | NBC, IMTU, TSC |
+| Data Science         | Data Mining       | 1          | +++   | AS, VU       |                |
+| Data Science         | Data Wrangling    | 0.75       | +++++ | AS, VU       | NBC, TSC       |
+| Data Science         | Machine Learning  | 0.5        | +     | AS, VU       |                |
+| Databases            | SQL               | 0.87       | ++    | LU, AS       | IMTU           |
+| Databases            | PostgreSQL        | 0.87       | ++    | LU, AS       | IMTU           |
+| Web Development      | Django            | 1.16       | ++    | AS           | IMTU           |
+| Web Development      | HTML              | 1          | +++   | LU, AS       | NBC, IMTU      |
+| Web Development      | CSS               | 1          | +     | LU, AS       | IMTU           |
+| Web Development      | JavaScript        | 0.25       | +     |              | IMTU, TSC      |
+| Bioinformatics       | Genomics          | 2.15       | ++++  | AS, VU       | NBC, IMTU      |
+| Bioinformatics       | Metabolomics      | 1.16       | +++   | AS, VU       | NBC, IMTU      |
+| Bioinformatics       | Proteomics        | 1.5        | +++   | AS, VU       | IMTU           |
+| Bioinformatics       | Transcriptomics   | 0.33       | ++++  | AS, VU       |                |
+| Life Science         | Biochemistry      | 0.68       | +++   | LU, AS, VU   | IMTU           |
+| Life Science         | Cell biology      | 0.41       | ++++  | LU, AS       | IMTU           |
+| Life Science         | Genetics          | 1.4        | ++++  | LU, AS, VU   | NBC, IMTU      |
+| Life Science         | Immunology        | 1          | +++   | LU, AS, VU   | IMTU           |
+| Life Science         | Microbiology      | 0.16       | ++    | LU, AS, VU   |                |
+| Life Science         | Molecular biology | 3.34       | ++++  | LU, AS, VU   | IMTU           |
+
 ## Software Engineering
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
 
