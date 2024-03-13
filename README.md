@@ -29,11 +29,51 @@ At its core, I have a strong passion for collecting and organizing data so that 
 
 # Finished professional projects
 
+<!---
 | period              | company                           | Role                  | description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |---------------------|-----------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2023 jan - 2023 feb | **Tectum Services Corp**          | Software Engineer     | Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied on the job: Javascript and Google Sheets API.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | 2019 feb - 2020 feb | **Immunetune**                    | Intern Bioinformatics | Graduation. Proved the possibility of a DNA-vaccin design that doesn't need DNA spacers between antigens to stop the occurence of junction epitopes. This was done by creating a program for researchers that optimises the order of chained antigens using an pathfinding algorithm. This insight helps researchers with designing a more effecive DNA vaccine to combat skin cancer recurrence. I accepted a request from Immunetune to continue on the project after my 2020 graduation, to help ImmuneTune enhance an experimental corona vaccine targeting SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Extended my experience with Python, Pandas and Linux. |
 | 2016 sep - 2017 jan | **Naturalis Biodiversity Center** | Intern Bioinformatics | Made pollen detector recognize more allergens by extending an existing sequencing pipeline. The detection of allergens such as animal hairs is now possible. Studied on the job: Galaxy. I extended my experience with Python and Linux scripting.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+--->
+
+<table>
+<thead>
+  <tr>
+    <th>period</th>
+    <th>company</th>
+    <th>Role</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2023 jan - 2023 feb</td>
+    <td>**Tectum Services Corp**</td>
+    <td>Software Engineer</td>
+  </tr>
+  <tr>
+    <td colspan="3">Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied on the job: Javascript and Google Sheets API.</td>
+  </tr>
+  <tr>
+    <td>2019 feb - 2020 feb</td>
+    <td>**Immunetune**</td>
+    <td>Intern Bioinformatics</td>
+  </tr>
+  <tr>
+    <td colspan="3">Graduation. Demonstrated that DNA vaccines can be designed without DNA spacers between antigens, preventing the occurrence of junction epitopes. By optimizing the order of chained antigens using a pathfinding algorithm, we can create more effective DNA vaccines to combat skin cancer recurrence. After my 2020 graduation, I collaborated with Immunetune to enhance an experimental corona vaccine targeting SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Extended my experience with Python, Pandas and Linux.</td>
+  </tr>
+  <tr>
+    <td>2016 sep - 2017 jan</td>
+    <td>**Naturalis Biodiversity Center**</td>
+    <td>Intern Bioinformatics</td>
+  </tr>
+  <tr>
+    <td colspan="3">Intern Bioinformatics | Made pollen detector recognize more allergens by extending an existing sequencing pipeline. The detection of allergens such as animal hairs is now possible. Studied on the job: Galaxy. I extended my experience with Python and Linux scripting.</td>
+  </tr>
+</tbody>
+</table>
+
+<!--- Best summary ever: Graduation. Proved the possibility of a DNA-vaccin design that doesn't need DNA spacers between antigens to stop the occurence of junction epitopes. This was done by creating a program for researchers that optimises the order of chained antigens using an pathfinding algorithm. This insight helps researchers with designing a more effecive DNA vaccine to combat skin cancer recurrence. I accepted a request from Immunetune to continue on the project after my 2020 graduation, to help ImmuneTune enhance an experimental corona vaccine targeting SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Extended my experience with Python, Pandas and Linux.--->
 
 # Current personal projects
 ## [Learning more about usefull Python packages](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
