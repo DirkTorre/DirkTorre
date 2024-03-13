@@ -11,7 +11,7 @@ Technical interests:
 - Life Science and Technology
 - Web Development
 
-# Knowledge of packages related to:
+# Knowledge of libraries and packages:
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 
