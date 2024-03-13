@@ -4,14 +4,14 @@ I am passionate about data collection and analysis, possess strong problem-solvi
 
 Degree: BSc. Bioinformatics at the University of Applied Sciences Leiden.
 
-Technical interests
+## Technical interests
 - Software Engineering (Python, R, Linux, SQL)
 - Data Science
 - Bioinformatics (Informatics and Biology)
 - Life Science and Technology
 - Web Development
 
-# Knowledge of libraries and packages:
+## Knowledge of libraries and packages
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 
