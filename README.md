@@ -39,6 +39,8 @@ At its core, I have a strong passion for collecting and organizing data so that 
 
 # Rough calculation of years of experience
 
+<!--- https://www.tablesgenerator.com/markdown_tables --->
+
 | category             | subject           | experience | skill | at Education | at Companies   |
 |----------------------|-------------------|------------|-------|--------------|----------------|
 | Software Engineering | Python            | 4.5        | ++++  | AS, VU       | NBC, IMTU      |
@@ -69,6 +71,9 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | Life Science         | Molecular biology | 3.34       | ++++  | LU, AS, VU   | IMTU           |
 
 This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
+
+<!--- https://www.tablesgenerator.com/markdown_tables --->
+
 | Symbol | Meaning                               |
 |--------|---------------------------------------|
 | LU     | Leiden University                     |
