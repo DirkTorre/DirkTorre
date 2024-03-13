@@ -27,6 +27,12 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | Bioinformatics                  | Python, Linux, R           | Bioconductor, Biopython |
 | GUI Development                 | Python                     |                         |
 
+
+# Current personal projects
+## [Learning more about usefull Python packages](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
+## [Collecting movie info](https://github.com/DirkTorre/imdb)
+## [Recapping transcriptomics and bioconductor](https://github.com/DirkTorre/bioconductor)
+
 # Finished professional projects
 
 <!---
@@ -74,11 +80,6 @@ At its core, I have a strong passion for collecting and organizing data so that 
 </table>
 
 <!--- Best summary ever: Graduation. Proved the possibility of a DNA-vaccin design that doesn't need DNA spacers between antigens to stop the occurence of junction epitopes. This was done by creating a program for researchers that optimises the order of chained antigens using an pathfinding algorithm. This insight helps researchers with designing a more effecive DNA vaccine to combat skin cancer recurrence. I accepted a request from Immunetune to continue on the project after my 2020 graduation, to help ImmuneTune enhance an experimental corona vaccine targeting SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Gained more experience using Python, Pandas and Linux.--->
-
-# Current personal projects
-## [Learning more about usefull Python packages](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
-## [Collecting movie info](https://github.com/DirkTorre/imdb)
-## [Recapping transcriptomics and bioconductor](https://github.com/DirkTorre/bioconductor)
 
 # Rough calculation of years of experience
 
