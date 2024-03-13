@@ -2,7 +2,7 @@ Hello, I’m Dirk (32),
 
 I am passionate about data collection and analysis, possess strong problem-solving abilities, and am highly creative. Committed to continuous learning, I focus on enhancing my software engineering and bioinformatics skills.
 
-Degree: BSc. Bioinformatics at the University of Applied Sciences Leiden.
+**Degree**: BSc. Bioinformatics at the University of Applied Sciences Leiden.
 
 ## Technical interests
 - Software Engineering (Python, R, Linux, SQL)
