@@ -20,7 +20,7 @@ Technical interests:
 | Data Manipulation & Analysis | Python, R, Linux |
 | Machine Learning             | Python, R        |
 | Web Scraping                 | Python, Linux    |
-| Webdev                       | Python, Linux    |
+| Web Development              | Python, Linux    |
 | Bioinformatics               | Python, R, Linux |
 | GUI Development              | Python           |
 
