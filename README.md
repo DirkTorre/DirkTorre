@@ -39,8 +39,6 @@ At its core, I have a strong passion for collecting and organizing data so that 
 
 # Rough calculation of years of experience
 
-This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
-
 | category             | subject           | experience | skill | at Education | at Companies   |
 |----------------------|-------------------|------------|-------|--------------|----------------|
 | Software Engineering | Python            | 4.5        | ++++  | AS, VU       | NBC, IMTU      |
@@ -69,6 +67,16 @@ This reflects only the verifiable time spent learning and working on these subje
 | Life Science         | Immunology        | 1          | +++   | LU, AS, VU   | IMTU           |
 | Life Science         | Microbiology      | 0.16       | ++    | LU, AS, VU   |                |
 | Life Science         | Molecular biology | 3.34       | ++++  | LU, AS, VU   | IMTU           |
+
+This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
+| Symbol | Meaning                               |
+|--------|---------------------------------------|
+| LU     | Leiden University                     |
+| AS     | Leiden University of Applied Sciences |
+| VU     | Vrije Universiteit Amsterdam          |
+| NBC    | Naturalis Biodiversity Center         |
+| IMTU   | Immunetune                            |
+| TSC    | Tectum Services Corp                  |
 
 ## Software Engineering
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
