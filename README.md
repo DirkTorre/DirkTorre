@@ -13,19 +13,16 @@ Technical interests:
 
 # Knowledge op packages related to:
 
-| language | subject                      |
-|----------|------------------------------|
-| Bash     | Bioinformatics               |
-| Bash     | Web Scraping                 |
-| Python   | Bioinformatics               |
-| Python   | Data Manipulation & Analysis |     
-| Python   | GUI Development              |
-| Python   | Machine Learning             |
-| Python   | Webdev                       |
-| Python   | Web Scraping                 |
-| R        | Bioinformatics               |     
-| R        | Data Manipulation & Analysis |  
-| R        | Machine Learning             |
+<!--- https://www.tablesgenerator.com/markdown_tables --->
+
+| Subject                      | Language         |
+|------------------------------|------------------|
+| Data Manipulation & Analysis | Python, R, Linux |
+| Machine Learning             | Python, R        |
+| Web Scraping                 | Python, Linux    |
+| Webdev                       | Python, Linux    |
+| Bioinformatics               | Python, R, Linux |
+| GUI Development              | Python           |
 
 # Rough calculation of years of experiences
 
