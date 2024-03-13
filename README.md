@@ -77,6 +77,11 @@ This reflects only the verifiable time spent learning and working on these subje
 | NBC    | Naturalis Biodiversity Center         |
 | IMTU   | Immunetune                            |
 | TSC    | Tectum Services Corp                  |
+| +      | Beginner                              |
+| ++     | Skilled                               |
+| +++    | Proficient                            |
+| ++++   | Advanced                              |
+| +++++  | Expert                                |
 
 ## Software Engineering
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
