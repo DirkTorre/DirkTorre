@@ -28,19 +28,11 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | GUI Development                 | Python                     |                         |
 
 # Finished professional projects
-- 2023 jan - 2023 feb | **Tectum Services Corp** | Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied Javascript and Google Sheets API on the job.
+- 2023 jan - 2023 feb | **Tectum Services Corp** | Freelance | Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied on the job: Javascript and Google Sheets API .
   
-- 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
+- 2019 feb - 2020 feb | **Immunetune** | Graduation Internship | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
 
-Proved that DNA-spacers between antigens can be removed 
-
-in DNA-vaccin design in regards to junction epitopes  by developing research pipeline and website 
-
-hypotheticaly DNA-vaccine design without theorethicaly is possible
-
-Decreased in-sillico binding of junction epitopes by 31% to 100% by developing a research pipeline and website 
-which led to an decrease in in-silico DNA-vaccine design
- from a DNA-vaccine    to MHC-molecules   antigen presentation to T-killer cells
+Proved the possibility of a DNA-vaccin design that doesn't need DNA spacers between antigens to stop the occurence of junction epitopes. This was done by designing and creating a program for researchers that optimises the order of chained antigens using an pathfinding algorithm. This insight helps researchers with designing a more effecive DNA vaccine to combat skin cancer recurrence. I accepted a request from Immunetune to continue on the project after my 2020 graduation, to help ImmuneTune enhance an experimental corona vaccine targeting SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Extended my experience with Python, Pandas and Linux.
 
 - 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
 
