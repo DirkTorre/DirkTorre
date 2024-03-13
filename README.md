@@ -137,6 +137,19 @@ This reflects only the verifiable time spent learning and working on these subje
 | +++++  | Expert                                |
 
 # Old text to be used to review new text
+Hello, I’m Dirk (32), 
+
+I am passionate about data collection and analysis, possess strong problem-solving abilities, and am highly creative. Committed to continuous learning, I focus on enhancing my software engineering and bioinformatics skills. 
+
+Degree: BSc. Bioinformatics at the University of Applied Sciences Leiden. 
+
+Technical interests: 
+- Software Engineering (Python, R, Linux, SQL) 
+- Data Science 
+- Bioinformatics (Informatics and Biology) 
+- Life Science and Technology 
+- Web Development 
+
 ##  Finished professional projects
 - 2023 jan - 2023 feb | **Tectum Services Corp** | Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied Javascript and Google Sheets API on the job.
   
