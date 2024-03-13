@@ -35,6 +35,13 @@ At its core, I have a strong passion for collecting and organizing data so that 
 
 # Finished professional projects
 
+##  Finished professional projects
+- 2023 jan - 2023 feb | **Tectum Services Corp** | Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied Javascript and Google Sheets API on the job.
+  
+- 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
+
+- 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
+
 <!---
 | period              | company                           | Role                  | description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |---------------------|-----------------------------------|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,41 +50,6 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | 2016 sep - 2017 jan | **Naturalis Biodiversity Center** | Intern Bioinformatics | Made pollen detector recognize more allergens by extending an existing sequencing pipeline. The detection of allergens such as animal hairs is now possible. Studied on the job: Galaxy. I extended my experience with Python and Linux scripting.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 --->
 
-<table>
-<thead>
-  <tr>
-    <th>period</th>
-    <th>company</th>
-    <th>role</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>2023 jan - 2023 feb</td>
-    <td>Tectum Services Corp</td>
-    <td>Software Engineer</td>
-  </tr>
-  <tr>
-    <td colspan="3">Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied on the job: Javascript and Google Sheets API.</td>
-  </tr>
-  <tr>
-    <td>2019 feb - 2020 feb</td>
-    <td>Immunetune</td>
-    <td>Intern Bioinformatics</td>
-  </tr>
-  <tr>
-    <td colspan="3">Graduation. Demonstrated that DNA vaccines can be designed without DNA spacers between antigens, preventing the occurrence of junction epitopes. By optimizing the order of chained antigens using a pathfinding algorithm, we can create more effective DNA vaccines to combat skin cancer recurrence. After graduation, I developed the program a bit more to allow Immunetune to use it to enhance an experimental corona vaccine targeting SARS-CoV-2. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Gained more experience: Python, Pandas and Linux.</td>
-  </tr>
-  <tr>
-    <td>2016 sep - 2017 jan</td>
-    <td>Naturalis Biodiversity Center</td>
-    <td>Intern Bioinformatics</td>
-  </tr>
-  <tr>
-    <td colspan="3">Group project. Made pollen detector recognize more allergens by extending an existing sequencing pipeline. The detection of allergens such as animal hairs is now possible. Studied on the job: Galaxy. Gained more experience: Galaxy, Python and Linux scripting.</td>
-  </tr>
-</tbody>
-</table>
 
 <!--- Best summary ever: Graduation. Proved the possibility of a DNA-vaccin design that doesn't need DNA spacers between antigens to stop the occurence of junction epitopes. This was done by creating a program for researchers that optimises the order of chained antigens using an pathfinding algorithm. This insight helps researchers with designing a more effecive DNA vaccine to combat skin cancer recurrence. I accepted a request from Immunetune to continue on the project after my 2020 graduation, to help ImmuneTune enhance an experimental corona vaccine targeting SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Gained more experience using Python, Pandas and Linux.--->
 
@@ -96,7 +68,7 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | Data Science         | Data Analysis     | 1.6        | +++   | LU, AS, VU   | NBC, IMTU, TSC | X            |
 | -                    | Statistics        | 0.83       | +++   | LU, AS, VU   | NBC, IMTU, TSC |              |
 | -                    | Data Mining       | 1          | +++   | AS, VU       |                |              |
-| -                    | Data Wrangling    | 0.75       | +++++ | AS, VU       | NBC, TSC       | X            |
+| -                    | Data Wrangling    | 0.75       | ++++  | AS, VU       | NBC, TSC       | X            |
 | -                    | Machine Learning  | 0.5        | +     | AS, VU       |                |              |
 |                                                                                                              |
 | Databases            | SQL               | 0.87       | ++    | LU, AS       | IMTU           | X            |
@@ -157,6 +129,43 @@ Technical interests:
 - 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
 
 - 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
+
+<table>
+<thead>
+  <tr>
+    <th>period</th>
+    <th>company</th>
+    <th>role</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2023 jan - 2023 feb</td>
+    <td>Tectum Services Corp</td>
+    <td>Software Engineer</td>
+  </tr>
+  <tr>
+    <td colspan="3">Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied on the job: Javascript and Google Sheets API.</td>
+  </tr>
+  <tr>
+    <td>2019 feb - 2020 feb</td>
+    <td>Immunetune</td>
+    <td>Intern Bioinformatics</td>
+  </tr>
+  <tr>
+    <td colspan="3">Graduation. Demonstrated that DNA vaccines can be designed without DNA spacers between antigens, preventing the occurrence of junction epitopes. By optimizing the order of chained antigens using a pathfinding algorithm, we can create more effective DNA vaccines to combat skin cancer recurrence. After graduation, I developed the program a bit more to allow Immunetune to use it to enhance an experimental corona vaccine targeting SARS-CoV-2. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Gained more experience: Python, Pandas and Linux.</td>
+  </tr>
+  <tr>
+    <td>2016 sep - 2017 jan</td>
+    <td>Naturalis Biodiversity Center</td>
+    <td>Intern Bioinformatics</td>
+  </tr>
+  <tr>
+    <td colspan="3">Group project. Made pollen detector recognize more allergens by extending an existing sequencing pipeline. The detection of allergens such as animal hairs is now possible. Studied on the job: Galaxy. Gained more experience: Galaxy, Python and Linux scripting.</td>
+  </tr>
+</tbody>
+</table>
+
 
 ## Software Engineering
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
