@@ -72,7 +72,7 @@ This reflects only the verifiable time spent learning and working on these subje
 -	CSS (1+)
 -	JavaScript (0.25)
 ## Bioinformatics
-***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+***Education***: Leiden University of Applied Science, Vrije Universiteit Amsterdam
 
 ***Companies***: Naturalis Biodiversity Center, Immunetune
 -	Genomics (2.15+)
