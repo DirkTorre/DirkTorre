@@ -2,16 +2,16 @@ Hello, I’m Dirk (32),
 
 I am passionate about data collection and analysis, possess strong problem-solving abilities, and am highly creative. Committed to continuous learning, I focus on enhancing my software engineering and bioinformatics skills.
 
-Degree: BSc. Bioinformatics at University of Applied Sciences Leiden.
+Degree: BSc. Bioinformatics at the University of Applied Sciences Leiden.
 
 Technical interests:
 - Software Engineering (Python, R, Linux, SQL)
 - Data Science
 - Bioinformatics (Informatics and Biology)
-- Life Science & Technology
+- Life Science and Technology
 - Web Development
 
-# Knowledge op packages related to:
+# Knowledge of packages related to:
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 
@@ -24,7 +24,7 @@ Technical interests:
 | Bioinformatics               | Python, R, Linux |
 | GUI Development              | Python           |
 
-# Rough calculation of years of experiences
+# Rough calculation of years of experience
 
 This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
 
@@ -67,7 +67,7 @@ This reflects only the verifiable time spent learning and working on these subje
 -	Proteomics (1.5+)
 -	Transcriptomics (0.33+)
 ## Biology
-***Education***: Rotterdam University of Appield Science, Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
+***Education***: Rotterdam University of Applied Science, Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
 
 ***Companies***: Naturalis Biodiversity Center, Immunetune
 -	Biochemistry (0.68+)
@@ -81,7 +81,7 @@ This reflects only the verifiable time spent learning and working on these subje
 # Finished professional projects
 ## code not on Github:
 - 2023 jan - 2023 feb | **Tectum Services Corp** | Learning on the job | Development of a Google Sheets plug-in for cleaning and summarizing data related to internet network technician appointments. (JavaScript)
-- 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped to minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
+- 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
 - 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
 
 # Current personal projects: 
