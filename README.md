@@ -48,21 +48,26 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | -                    | R                 | 0.83       | +++   | LU, AS, VU   |                | X            |
 | -                    | Java              | 0.5        | ++    | AS,          |                |              |
 | -                    | AWK               | 0.25       | ++    | AS           | NBC            |              |
+|                      |                   |            |       |              |                |              |
 | Data Science         | Data Analysis     | 1.6        | +++   | LU, AS, VU   | NBC, IMTU, TSC | X            |
 | -                    | Statistics        | 0.83       | +++   | LU, AS, VU   | NBC, IMTU, TSC |              |
 | -                    | Data Mining       | 1          | +++   | AS, VU       |                |              |
 | -                    | Data Wrangling    | 0.75       | +++++ | AS, VU       | NBC, TSC       | X            |
 | -                    | Machine Learning  | 0.5        | +     | AS, VU       |                |              |
+|                      |                   |            |       |              |                |              |
 | Databases            | SQL               | 0.87       | ++    | LU, AS       | IMTU           | X            |
 | -                    | PostgreSQL        | 0.87       | ++    | LU, AS       | IMTU           |              |
+|                      |                   |            |       |              |                |              |
 | Web Development      | Django            | 1.16       | ++    | AS           | IMTU           | X            |
 | -                    | HTML              | 1          | +++   | LU, AS       | NBC, IMTU      | X            |
 | -                    | CSS               | 1          | +     | LU, AS       | IMTU           | X            |
 | -                    | JavaScript        | 0.25       | +     |              | IMTU, TSC      |              |
+|                      |                   |            |       |              |                |              |
 | Bioinformatics       | Genomics          | 2.15       | ++++  | AS, VU       | NBC, IMTU      | X            |
 | -                    | Metabolomics      | 1.16       | +++   | AS, VU       | NBC, IMTU      |              |
 | -                    | Proteomics        | 1.5        | +++   | AS, VU       | IMTU           |              |
 | -                    | Transcriptomics   | 0.33       | ++++  | AS, VU       |                | X            |
+|                      |                   |            |       |              |                |              |
 | Life Science         | Biochemistry      | 0.68       | +++   | LU, AS, VU   | IMTU           |              |
 | -                    | Cell biology      | 0.41       | ++++  | LU, AS       | IMTU           | X            |
 | -                    | Genetics          | 1.4        | ++++  | LU, AS, VU   | NBC, IMTU      |              |
