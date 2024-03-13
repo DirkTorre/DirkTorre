@@ -32,9 +32,9 @@ Technical interests
 - 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
 
 # Current personal projects
-- [Learning more about usefull Python packages](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
-- [Collecting movie info](https://github.com/DirkTorre/imdb)
-- [Recapping transcriptomics and bioconductor](https://github.com/DirkTorre/bioconductor)
+## [Learning more about usefull Python packages](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
+## [Collecting movie info](https://github.com/DirkTorre/imdb)
+## [Recapping transcriptomics and bioconductor](https://github.com/DirkTorre/bioconductor)
 
 # Rough calculation of years of experience
 
