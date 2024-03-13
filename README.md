@@ -68,7 +68,7 @@ At its core, I have a strong passion for collecting and organizing data so that 
     <td>Intern Bioinformatics</td>
   </tr>
   <tr>
-    <td colspan="3">Group project. Made pollen detector recognize more allergens by extending an existing sequencing pipeline. The detection of allergens such as animal hairs is now possible. Studied on the job: Galaxy. I extended my experience with Python and Linux scripting.</td>
+    <td colspan="3">Group project. Made pollen detector recognize more allergens by extending an existing sequencing pipeline. The detection of allergens such as animal hairs is now possible. Studied on the job: Galaxy. Gained more experience: Galaxy, Python and Linux scripting.</td>
   </tr>
 </tbody>
 </table>
