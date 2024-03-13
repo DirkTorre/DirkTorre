@@ -42,13 +42,13 @@ At its core, I have a strong passion for collecting and organizing data so that 
   <tr>
     <th>period</th>
     <th>company</th>
-    <th>Role</th>
+    <th>role</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>2023 jan - 2023 feb</td>
-    <td>**Tectum Services Corp**</td>
+    <td>Tectum Services Corp</td>
     <td>Software Engineer</td>
   </tr>
   <tr>
@@ -56,19 +56,19 @@ At its core, I have a strong passion for collecting and organizing data so that 
   </tr>
   <tr>
     <td>2019 feb - 2020 feb</td>
-    <td>**Immunetune**</td>
+    <td>Immunetune</td>
     <td>Intern Bioinformatics</td>
   </tr>
   <tr>
-    <td colspan="3">Graduation. Demonstrated that DNA vaccines can be designed without DNA spacers between antigens, preventing the occurrence of junction epitopes. By optimizing the order of chained antigens using a pathfinding algorithm, we can create more effective DNA vaccines to combat skin cancer recurrence. After my 2020 graduation, I collaborated with Immunetune to enhance an experimental corona vaccine targeting SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Extended my experience with Python, Pandas and Linux.</td>
+    <td colspan="3">Graduation. Demonstrated that DNA vaccines can be designed without DNA spacers between antigens, preventing the occurrence of junction epitopes. By optimizing the order of chained antigens using a pathfinding algorithm, we can create more effective DNA vaccines to combat skin cancer recurrence. After graduation, I developed the program a bit more to allow Immunetune to use it to enhance an experimental corona vaccine targeting SARS-CoV-2. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Extended my experience with Python, Pandas and Linux.</td>
   </tr>
   <tr>
     <td>2016 sep - 2017 jan</td>
-    <td>**Naturalis Biodiversity Center**</td>
+    <td>Naturalis Biodiversity Center</td>
     <td>Intern Bioinformatics</td>
   </tr>
   <tr>
-    <td colspan="3">Intern Bioinformatics | Made pollen detector recognize more allergens by extending an existing sequencing pipeline. The detection of allergens such as animal hairs is now possible. Studied on the job: Galaxy. I extended my experience with Python and Linux scripting.</td>
+    <td colspan="3">Group project. Made pollen detector recognize more allergens by extending an existing sequencing pipeline. The detection of allergens such as animal hairs is now possible. Studied on the job: Galaxy. I extended my experience with Python and Linux scripting.</td>
   </tr>
 </tbody>
 </table>
@@ -135,6 +135,14 @@ This reflects only the verifiable time spent learning and working on these subje
 | +++    | Proficient                            |
 | ++++   | Advanced                              |
 | +++++  | Expert                                |
+
+# Old text to be used to review new text
+##  Finished professional projects
+- 2023 jan - 2023 feb | **Tectum Services Corp** | Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied Javascript and Google Sheets API on the job.
+  
+- 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
+
+- 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
 
 ## Software Engineering
 ***Education***: Leiden University, Leiden University of Applied Science, Vrije Universiteit Amsterdam
