@@ -28,8 +28,20 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | GUI Development                 | Python                     |                         |
 
 # Finished professional projects
-- 2023 jan - 2023 feb | **Tectum Services Corp** | Learning on the job | Development of a Google Sheets plug-in for cleaning and summarizing data related to internet network technician appointments. (JavaScript)
+- 2023 jan - 2023 feb | **Tectum Services Corp** | Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied Javascript and Google Sheets API on the job.
+  
 - 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
+
+Proved that DNA-spacers between antigens can be removed 
+
+in DNA-vaccin design in regards to junction epitopes  by developing research pipeline and website 
+
+hypotheticaly DNA-vaccine design without theorethicaly is possible
+
+Decreased in-sillico binding of junction epitopes by 31% to 100% by developing a research pipeline and website 
+which led to an decrease in in-silico DNA-vaccine design
+ from a DNA-vaccine    to MHC-molecules   antigen presentation to T-killer cells
+
 - 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
 
 # Current personal projects
