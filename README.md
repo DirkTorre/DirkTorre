@@ -4,7 +4,7 @@ I am passionate about data collection and analysis, possess strong problem-solvi
 
 Degree: BSc. Bioinformatics at the University of Applied Sciences Leiden.
 
-Technical interests:
+Technical interests
 - Software Engineering (Python, R, Linux, SQL)
 - Data Science
 - Bioinformatics (Informatics and Biology)
@@ -31,7 +31,7 @@ Technical interests:
 - 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
 - 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
 
-# Current personal projects: 
+# Current personal projects
 - [Learning more about usefull Python packages](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
 - [Collecting movie info](https://github.com/DirkTorre/imdb)
 - [Recapping transcriptomics and bioconductor](https://github.com/DirkTorre/bioconductor)
