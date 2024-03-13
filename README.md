@@ -1,6 +1,8 @@
 Hello, I’m Dirk (32),
 
-I am passionate about data collection and analysis, possess strong problem-solving abilities, and am highly creative. Committed to continuous learning, I focus on enhancing my software engineering and bioinformatics skills.
+I am, and always have been, interested in discovering how (and why) things function. My main subjects for this are computers and living creatures (organisms). Watching Jurassic Park as a kid could probably be the source of this interest. This developed into a fascination with research, science, genomics, and programming. So, enrolling in a bioinformatics program was inevitable.
+
+At its core, I have a strong passion for collecting and organizing data so that my fellow fanatics and I can discover insights into how and why thing's function. To facilitate this curiosity, I commit myself to continuous learning and creating and focus on enhancing my Software Engineering and Bioinformatics skills. The best way to do this is by starting a project that intersects with my interests.
 
 **Degree**: BSc. Bioinformatics at the University of Applied Sciences Leiden.
 
