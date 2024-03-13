@@ -84,7 +84,7 @@ At its core, I have a strong passion for collecting and organizing data so that 
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 
-| category             | subject           | experience | skill | at education | at companies   | In free time |
+| category             | subject           | experience | skill | at education | at companies   | in free time |
 |----------------------|-------------------|------------|-------|--------------|----------------|--------------|
 | Software Engineering | Python            | 4.5        | ++++  | AS, VU       | NBC, IMTU      | X            |
 | -                    | Linux / Bash      | 1.5        | +++   | AS, LU, VU   | NBC, IMTU      | X            |
