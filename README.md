@@ -28,19 +28,33 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | GUI Development                 | Python                     |                         |
 
 
-# Current personal projects
-## [Learning more about usefull Python packages](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
-## [Collecting movie info](https://github.com/DirkTorre/imdb)
-## [Recapping transcriptomics and bioconductor](https://github.com/DirkTorre/bioconductor)
-
-# Finished professional projects
+## Current personal projects
+- [**Learning more about usefull Python packages**](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
+- [**Collecting and analysing movie info**](https://github.com/DirkTorre/imdb)
+- [**Recapping transcriptomics and bioconductor**](https://github.com/DirkTorre/bioconductor)
 
 ##  Finished professional projects
-- 2023 jan - 2023 feb | **Tectum Services Corp** | Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance. Studied Javascript and Google Sheets API on the job.
-  
-- 2019 feb - 2020 feb | **Immunetune** | Learning on the job | Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux)
+2023 jan - 2023 feb | **Tectum Services Corp** | Software Engineer | Solo Project
 
-- 2016 - 2017 | **Naturalis Biodiversity Center** | Short optional internship as a group project. Extension of sequencing pipeline for pollen detection, so it could detect more allergens such as animal hairs. (Python, Bash Scripting for Linux)
+- Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance.
+- Studied on the job: JavaScript, Google Sheets API
+- Gained more experience: Data Wrangling
+  
+2019 feb - 2020 feb | **Immunetune** | Learning on the job | Software Engineer / Bioinformatics Researcher | Solo Graduation Internship Project
+
+- Proved that a DNA-vaccin design didn't need DNA spacers between antigens to stop the occurence of junction epitopes,
+by creating a program that optimises the order of chained antigens using an pathfinding algorithm.
+This insight helps researchers design a more effecive DNA vaccine to combat skin cancer recurrence.
+- Studied on the job: Django web development, Cancer Research, Vaccin Development
+- Gained more experience: Python, Pandas, Databases, Immunology
+
+<!-- Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux) -->
+
+2016 sep - 2017 jan | **Naturalis Biodiversity Center** | Software Engineer | Group Internship Project
+
+- Made pollen detector recognize more allergens by extending an existing sequencing pipeline, helping research into developing a system that can warn patients suffering from heavy allergies.
+- Studied on the job: Galaxy
+- Gained more experience: Python, Linux scripting, Data Wrangling
 
 <!---
 | period              | company                           | Role                  | description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -53,7 +67,7 @@ At its core, I have a strong passion for collecting and organizing data so that 
 
 <!--- Best summary ever: Graduation. Proved the possibility of a DNA-vaccin design that doesn't need DNA spacers between antigens to stop the occurence of junction epitopes. This was done by creating a program for researchers that optimises the order of chained antigens using an pathfinding algorithm. This insight helps researchers with designing a more effecive DNA vaccine to combat skin cancer recurrence. I accepted a request from Immunetune to continue on the project after my 2020 graduation, to help ImmuneTune enhance an experimental corona vaccine targeting SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Gained more experience using Python, Pandas and Linux.--->
 
-# Rough calculation of years of experience
+## Rough calculation of years of experience
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 
