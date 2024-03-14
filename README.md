@@ -72,7 +72,7 @@ This insight helps researchers design a more effecive DNA vaccine to combat skin
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 An explenation of abbreviations used in skill, education and companies is listed in the second table below the first one.
 
-exp. = Rough calculation of experince by yeas. This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
+exp. = Rough calculation of experince by years. This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
 
 | category             | subject           | exp.       | skill | at education | at companies   | for fun in free time |
 |----------------------|-------------------|------------|-------|--------------|----------------|----------------------|
