@@ -40,7 +40,7 @@ At its core, I have a strong passion for collecting and organizing data so that 
 - Studied on the job: JavaScript, Google Sheets API
 - Gained more experience: Data Wrangling
   
-2019 feb - 2020 feb | **Immunetune** | Learning on the job | Software Engineer / Bioinformatics Researcher | Solo Graduation Internship Project
+2019 feb - 2020 feb | **Immunetune** | Software Engineer / Bioinformatics Researcher | Solo Graduation Internship Project
 
 - Proved that a DNA-vaccin design didn't need DNA spacers between antigens to stop the occurence of junction epitopes,
 by creating a program that optimises the order of chained antigens using an pathfinding algorithm.
