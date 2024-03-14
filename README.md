@@ -36,7 +36,7 @@ The best way to do this is by starting a project that intersects with my interes
 ## Current personal projects
 - [**Learning more about useful Python packages**](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
 - [**Collecting and analyzing movie data**](https://github.com/DirkTorre/imdb)
-- [**Recapping transcriptomics and bioconductor**](https://github.com/DirkTorre/bioconductor)
+- [**Recapping transcriptomics and Bioconductor**](https://github.com/DirkTorre/bioconductor)
 
 ##  Finished professional projects
 2023 jan - 2023 feb | **Tectum Services Corp.** Telecommunications | Software Engineer | Solo Project
