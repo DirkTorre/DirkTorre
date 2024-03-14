@@ -25,7 +25,6 @@ At its core, I have a strong passion for collecting and organizing data so that 
 | Web Scraping                    | Python, Linux, AWK         | Beautiful Soup          |
 | Web Development                 | Python, Linux, SQL         | Django, PostgreSQL      |
 | Bioinformatics                  | Python, Linux, R           | Bioconductor, Biopython |
-| GUI Development                 | Python                     |                         |
 
 
 ## Current personal projects
