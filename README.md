@@ -34,30 +34,30 @@ The best way to do this is by starting a project that intersects with my interes
 
 
 ## Current personal projects
-- [**Learning more about usefull Python packages**](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
-- [**Collecting and analysing movie info**](https://github.com/DirkTorre/imdb)
+- [**Learning more about useful Python packages**](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
+- [**Collecting and analyzing movie data**](https://github.com/DirkTorre/imdb)
 - [**Recapping transcriptomics and bioconductor**](https://github.com/DirkTorre/bioconductor)
 
 ##  Finished professional projects
-2023 jan - 2023 feb | **Tectum Services Corp** Telecommunications | Software Engineer | Solo Project
+2023 jan - 2023 feb | **Tectum Services Corp.** Telecommunications | Software Engineer | Solo Project
 
-- Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance.
+- Decreased labor intensity of cleaning and summarizing appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance.
 - Studied on the job: JavaScript, Google Sheets API
 - Gained more experience: Data Wrangling
   
 2019 feb - 2020 feb | **Immunetune** Biotech Research | Software Engineer / Bioinformatics Researcher | Solo Graduation Internship Project
 
-- Proved that a DNA-vaccin design didn't need DNA spacers between antigens to stop the occurence of junction epitopes,
-by creating a program that optimises the order of chained antigens using an pathfinding algorithm.
-This insight helps researchers design a more effecive DNA vaccine to combat skin cancer recurrence.
+- Proved that a DNA vaccin design didn't need DNA spacers between antigens to stop occurence of junction epitopes,
+by creating a program that optimizes the order of chained antigens using a pathfinding algorithm.
+This insight helps researchers design a more effective DNA vaccine to combat skin cancer recurrence.
 - Studied on the job: Django web development, Cancer Research, Vaccin Development
 - Gained more experience: Python, Pandas, Databases, Immunology
 
-<!-- Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux) -->
+<!-- Optimalization of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in the development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux) -->
 
 2016 sep - 2017 jan | **Naturalis Biodiversity Center** Biodiversity Research | Software Engineer | Group Internship Project
 
-- Made pollen detector recognize more allergens by extending an existing sequencing pipeline, helping research into developing a system that can warn patients suffering from heavy allergies.
+- Made pollen detectors recognize more allergens by extending an existing sequencing pipeline, helping research into developing a system that can warn patients suffering from heavy allergies.
 - Studied on the job: Galaxy
 - Gained more experience: Python, Linux scripting, Data Wrangling
 
@@ -75,11 +75,11 @@ This insight helps researchers design a more effecive DNA vaccine to combat skin
 ## Experience by subject
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
-An explenation of abbreviations used in skill, education and companies is listed in the second table below the first one.
+An explanation of abbreviations used in skill, education and companies is listed in the second table below the first one.
 
-exp. = Rough calculation of experince by years. This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
+exp. = Rough calculation of experience by years. This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
 
-free time = Study for fun in my free time.
+free time = Studying for fun in my free time.
 
 | category             | subject           | exp.       | skill | at education | at companies   | free time            |
 |----------------------|-------------------|------------|-------|--------------|----------------|----------------------|
@@ -132,6 +132,7 @@ free time = Study for fun in my free time.
 | ++++   | Advanced                                                 |
 | +++++  | Expert                                                   |
 
+<!--
 # Old text to be used to review new text
 Hello, I’m Dirk (32), 
 
@@ -238,6 +239,8 @@ Technical interests:
 -	Immunology (1+)
 -	Microbiology (0.16+)
 -	Molecular biology (3.34+)
+
+--->
 
 <!---
 DirkTorre/DirkTorre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
