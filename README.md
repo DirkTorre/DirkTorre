@@ -33,13 +33,13 @@ At its core, I have a strong passion for collecting and organizing data so that 
 - [**Recapping transcriptomics and bioconductor**](https://github.com/DirkTorre/bioconductor)
 
 ##  Finished professional projects
-2023 jan - 2023 feb | **Tectum Services Corp** | Software Engineer | Solo Project
+2023 jan - 2023 feb | **Tectum Services Corp** Telecommunications | Software Engineer | Solo Project
 
 - Decreased labor intensity of cleaning and summarising appointment data by developing a plug-in for Google Sheets in JavaScript, leading to insights into network engineering obstacles and team performance.
 - Studied on the job: JavaScript, Google Sheets API
 - Gained more experience: Data Wrangling
   
-2019 feb - 2020 feb | **Immunetune** | Software Engineer / Bioinformatics Researcher | Solo Graduation Internship Project
+2019 feb - 2020 feb | **Immunetune** Biotech Research | Software Engineer / Bioinformatics Researcher | Solo Graduation Internship Project
 
 - Proved that a DNA-vaccin design didn't need DNA spacers between antigens to stop the occurence of junction epitopes,
 by creating a program that optimises the order of chained antigens using an pathfinding algorithm.
@@ -49,7 +49,7 @@ This insight helps researchers design a more effecive DNA vaccine to combat skin
 
 <!-- Optimalisation of a DNA-vaccine. Graduation internship. Development of software that helped minimize the juncture epitopes of a DNA vaccine for a mouse melanoma model. The project ended in development phase in 2020. In early 2020 the project was restarted to produce a working GUI on a desktop to help ImmuneTune enhance an experimental corona vaccine. (Python, Pandas, Django, Linux) -->
 
-2016 sep - 2017 jan | **Naturalis Biodiversity Center** | Software Engineer | Group Internship Project
+2016 sep - 2017 jan | **Naturalis Biodiversity Center** Biodiversity Research | Software Engineer | Group Internship Project
 
 - Made pollen detector recognize more allergens by extending an existing sequencing pipeline, helping research into developing a system that can warn patients suffering from heavy allergies.
 - Studied on the job: Galaxy
@@ -110,19 +110,19 @@ exp. = Rough calculation of experince by years. This reflects only the verifiabl
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 
-| Symbol | Meaning                               |
-|--------|---------------------------------------|
-| LU     | Leiden University                     |
-| AS     | Leiden University of Applied Sciences |
-| VU     | Vrije Universiteit Amsterdam          |
-| NBC    | Naturalis Biodiversity Center         |
-| IMTU   | Immunetune                            |
-| TSC    | Tectum Services Corp                  |
-| +      | Beginner                              |
-| ++     | Skilled                               |
-| +++    | Proficient                            |
-| ++++   | Advanced                              |
-| +++++  | Expert                                |
+| Symbol | Meaning                                                  |
+|--------|----------------------------------------------------------|
+| LU     | **Leiden University** Biology, Computer science          |
+| AS     | **Leiden University of Applied Sciences** Bioinformatics |
+| VU     | **Vrije Universiteit Amsterdam**  Bioinformatics         |
+| NBC    | **Naturalis Biodiversity Center** Biodiversity Research  |
+| IMTU   | **Immunetune** Biotech Research                          |
+| TSC    | **Tectum Services Corp** Telecommunications              |
+| +      | Beginner                                                 |
+| ++     | Skilled                                                  |
+| +++    | Proficient                                               |
+| ++++   | Advanced                                                 |
+| +++++  | Expert                                                   |
 
 # Old text to be used to review new text
 Hello, I’m Dirk (32), 
