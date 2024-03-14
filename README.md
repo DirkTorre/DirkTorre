@@ -67,11 +67,13 @@ This insight helps researchers design a more effecive DNA vaccine to combat skin
 
 <!--- Best summary ever: Graduation. Proved the possibility of a DNA-vaccin design that doesn't need DNA spacers between antigens to stop the occurence of junction epitopes. This was done by creating a program for researchers that optimises the order of chained antigens using an pathfinding algorithm. This insight helps researchers with designing a more effecive DNA vaccine to combat skin cancer recurrence. I accepted a request from Immunetune to continue on the project after my 2020 graduation, to help ImmuneTune enhance an experimental corona vaccine targeting SARS-CoV-2, the virus responsible for the COVID-19 pandemic. Studied on the job: Algorithms; Vaccin Development; Cancer Biology and Web Development with Django. Gained more experience using Python, Pandas and Linux.--->
 
-## Rough calculation of years of experience
+## Experience by subject
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 
-| category             | subject           | experience | skill | at education | at companies   | for fun in free time |
+exp. = Rough calculation of experince by yeas. This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
+
+| category             | subject           | exp.       | skill | at education | at companies   | for fun in free time |
 |----------------------|-------------------|------------|-------|--------------|----------------|----------------------|
 | Software Engineering | Python            | 4.5        | ++++  | AS, VU       | NBC, IMTU      | X                    |
 | -                    | Linux / Bash      | 1.5        | +++   | AS, LU, VU   | NBC, IMTU      | X                    |
@@ -105,7 +107,6 @@ This insight helps researchers design a more effecive DNA vaccine to combat skin
 | -                    | Microbiology      | 0.16       | ++    | LU, AS, VU   |                |                      |
 | -                    | Molecular biology | 3.34       | ++++  | LU, AS, VU   | IMTU           | X                    |
 
-This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
 
