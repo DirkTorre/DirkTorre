@@ -73,7 +73,9 @@ An explenation of abbreviations used in skill, education and companies is listed
 
 exp. = Rough calculation of experince by years. This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
 
-| category             | subject           | exp.       | skill | at education | at companies   | for fun in free time |
+free time = Study for fun in my free time.
+
+| category             | subject           | exp.       | skill | at education | at companies   | free time            |
 |----------------------|-------------------|------------|-------|--------------|----------------|----------------------|
 | Software Engineering | Python            | 4.5        | ++++  | AS, VU       | NBC, IMTU      | X                    |
 | -                    | Linux / Bash      | 1.5        | +++   | AS, LU, VU   | NBC, IMTU      | X                    |
