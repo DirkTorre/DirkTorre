@@ -17,26 +17,10 @@ The best way to do this is by starting a project that intersects with my interes
 - Data Science
 - Bioinformatics (Informatics and Biology)
 - Life Science and Technology
-- Web Development
-
-## Knowledge of libraries and packages
-
-<!--- https://www.tablesgenerator.com/markdown_tables --->
-
-| Subject                         | Language                   | Libraries of Interest   |
-|---------------------------------|----------------------------|-------------------------|
-| Data Wrangling and Manipulation | Python, R, Linux, AWK, SQL | Pandas                  |
-| Data Analysis and Visualisation | Python, R                  | Bokeh                   |
-| Machine Learning                | Python, R                  |                         |
-| Web Scraping                    | Python, Linux, AWK         | Beautiful Soup          |
-| Web Development                 | Python, Linux, SQL         | Django, PostgreSQL      |
-| Bioinformatics                  | Python, Linux, R           | Bioconductor, Biopython |
-
 
 ## Current personal projects
-- [**Learning more about useful Python packages**](https://github.com/DirkTorre/Python---packages-and-built-in-functionality)
+- [**Python Developer Roadmap**](https://github.com/DirkTorre/python_developer_roadmap)
 - [**Collecting and analyzing movie data**](https://github.com/DirkTorre/imdb)
-- [**Recapping transcriptomics and Bioconductor**](https://github.com/DirkTorre/bioconductor)
 
 ##  Finished professional projects
 2023 jan - 2023 feb | **Tectum Services Corp.** Telecommunications | Software Engineer | Solo Project
@@ -75,6 +59,38 @@ This insight helps researchers design a more effective DNA vaccine to combat ski
 ## Experience by subject
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
+
+| field                 | subject                  | skill level         | topics                                                   |
+|-----------------------|--------------------------|---------------------|----------------------------------------------------------|
+| Programming Languages | Python                   | profecient/advanced | WebDev, Data Manipulation                                |
+|                       | Linux                    | skilled             |                                                          |
+|                       | R                        | skilled             | Statistics                                               |
+|                       | Java                     | beginner            |                                                          |
+|                       | AWK                      | profecient          |                                                          |
+| Software Engineering  | Version Control          | beginner            | Git, Github, Bitbucket                                   |
+|                       | Software Testing         | beginner            | Pytest                                                   |
+|                       | Data Management          | beginner            | SQL, PostgreSQL                                          |
+|                       | Issue & project tracking | beginner            | Jira                                                     |
+| Data Science          | Data Analysis            | profecient          | Python (Pandas, Numpy, Matplotlib, Bokeh), R (tidyverse) |
+|                       | Statistics               | profecient          | R, Python                                                |
+|                       | Data Mining              | skilled             | Python (Pandas), R                                       |
+|                       | Data Wrangling           | profecient/advanced | Python (Pandas), R (tidyverse), Linux (Bash, AWK)        |
+|                       | Machine Learning         | beginner            | R, Python                                                |
+| Databases             | SQL                      | beginner            | PostgreSQL                                               |
+| Web Development       | back-end                 | beginner/skilled    | Python (Django), Linux (Ubuntu)                          |
+|                       | fron-end                 | beginner/skilled    | HTML, CSS, Javascript, Django                            |
+| Bioinformatics        | Genomics                 | profecient          | Python (biopython), R (bioconductor)                     |
+|                       | Metabolomics             | skilled             |                                                          |
+|                       | Proteomics               | skilled             |                                                          |
+|                       | Transcriptomics          | profecient          | R (bioconductor)                                         |
+| Life Science          | Biochemistry             | profecient          |                                                          |
+|                       | Cell biology             | advanced            |                                                          |
+|                       | Genetics                 | profecient          |                                                          |
+|                       | Immunology               | profecient          | Python (MHCtools)                                        |
+|                       | Microbiology             | profecient          |                                                          |
+|                       | Molecular biology        | profecient          |                                                          |
+
+<!--- 
 An explanation of abbreviations used in skill, education and companies is listed in the second table below the first one.
 
 exp. = Rough calculation of experience by years. This reflects only the verifiable time spent learning and working on these subjects; the actual total is greater due to concurrent experiences.
@@ -83,7 +99,7 @@ free time = Studying for fun in my free time.
 
 | category             | subject           | exp.       | skill | at education | at companies   | free time            |
 |----------------------|-------------------|------------|-------|--------------|----------------|----------------------|
-| Software Engineering | Python            | 4.5        | ++++  | AS, VU       | NBC, IMTU      | X                    |
+| Software Engineering | Python            | 5.5        | ++++  | AS, VU       | NBC, IMTU      | X                    |
 | -                    | Linux / Bash      | 1.5        | +++   | AS, LU, VU   | NBC, IMTU      | X                    |
 | -                    | R                 | 0.83       | +++   | LU, AS, VU   |                | X                    |
 | -                    | Java              | 0.5        | ++    | AS,          |                |                      |
@@ -115,8 +131,11 @@ free time = Studying for fun in my free time.
 | -                    | Microbiology      | 0.16       | ++    | LU, AS, VU   |                |                      |
 | -                    | Molecular biology | 3.34       | ++++  | LU, AS, VU   | IMTU           | X                    |
 
+--->
 
 <!--- https://www.tablesgenerator.com/markdown_tables --->
+
+<!---
 
 | Symbol | Meaning                                                  |
 |--------|----------------------------------------------------------|
@@ -132,6 +151,7 @@ free time = Studying for fun in my free time.
 | ++++   | Advanced                                                 |
 | +++++  | Expert                                                   |
 
+--->
 <!--
 # Old text to be used to review new text
 Hello, I’m Dirk (32), 
