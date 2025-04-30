@@ -6,7 +6,7 @@ Watching Jurassic Park as a kid could probably be the source of this interest.
 This developed into a fascination with research, science, genomics, and programming.
 So, enrolling in a Bioinformatics program was inevitable.
 
-At its core, I have a strong passion for collecting and organizing data so that my fellow fanatics and I can discover insights into how and why things function like they do.
+At its core, I have a strong passion for collecting, organizing and analyzing data so that my fellow fanatics and I can discover insights into how and why things function like they do.
 To facilitate this curiosity, I commit myself to continuous learning and creation by focusing on enhancing my Software Engineering and Bioinformatics skills.
 The best way to do this is by starting a project that intersects with my interests.
 
