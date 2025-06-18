@@ -19,8 +19,9 @@ The best way to do this is by starting a project that intersects with my interes
 - Life Science and Technology
 
 ## Current personal projects
+- [**Learning more about data pipelines (data orchestration with Python and Dagster)**](https://github.com/DirkTorre/project-dagster-university)
 - [**Python Developer Roadmap**](https://github.com/DirkTorre/python_developer_roadmap)
-- [**Collecting and analyzing movie data**](https://github.com/DirkTorre/imdb)
+- [**Collecting and analyzing movie data with Python and Pandas**](https://github.com/DirkTorre/imdb)
 
 ##  Finished professional projects
 2023 jan - 2023 feb | **Tectum Services Corp.** Telecommunications | Software Engineer | Solo Project
